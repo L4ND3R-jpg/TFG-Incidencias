@@ -1,0 +1,3 @@
+@echo off
+echo Iniciando MySQL Server 8.0 para TFG Incidencias...
+"C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe" --defaults-file="C:\ProgramData\MySQL\MySQL Server 8.0\my.ini" --console
